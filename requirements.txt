@@ -1,0 +1,11 @@
+# Python 3.12 recommended. Install the matching PyTorch build separately.
+numpy==2.2.6
+scipy==1.15.3
+pandas==2.2.3
+scikit-learn==1.7.2
+gensim==4.4.0
+transformers==4.57.1
+accelerate==1.11.0
+matplotlib==3.10.7
+requests==2.32.5
+

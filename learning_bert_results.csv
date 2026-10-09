@@ -1,0 +1,2 @@
+﻿method,checkpoint,test_accuracy,test_macro_f1
+BERT,C:\Users\薛健\Documents\实验一\learning_bert_checkpoints\checkpoint-1719,0.97117903930131,0.940093781671643

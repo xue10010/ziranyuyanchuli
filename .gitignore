@@ -1,0 +1,6 @@
+﻿data/
+assets/
+learning_bert_checkpoints/
+learning_bert_best_model/
+__pycache__/
+.venv/
